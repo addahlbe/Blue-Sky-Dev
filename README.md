@@ -4,5 +4,3 @@ waitress
 pyramid
 sqlalchemy
 
-penis
-
