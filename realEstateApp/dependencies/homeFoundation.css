@@ -3424,6 +3424,7 @@ kbd {
   border-color: #d9d9d9;
   margin-bottom: 1.25em;
   padding: 1.25em;
+  /* If you want to change panel background background-image: url('../style/images/smallClounds.JPG');*/
   background: #f2f2f2; }
   .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6  {
     color: #df6400; }
