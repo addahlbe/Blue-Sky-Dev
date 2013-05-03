@@ -985,7 +985,7 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #2ba6cb;
+  color: #519dd3;
   text-decoration: none;
   line-height: inherit; }
   a:hover, a:focus {
@@ -1265,7 +1265,7 @@ button, .button {
   padding-bottom: 0.8125em;
   padding-left: 1.5em;
   font-size: 1em;
-  background-color: #2ba6cb;
+  background-color: #519dd3;
   border-color: #2284a1;
   color: white; }
   button:hover, button:focus, .button:hover, .button:focus {
@@ -3306,7 +3306,7 @@ kbd {
   .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6{
     color: #df6400; }
     .panel p {
-      color: #08172b;
+      color: #071e36;
     }
   .panel > :first-child {
     margin-top: 0; }
