@@ -27,7 +27,7 @@
         </ul>
       </div>
       <div class="panel">
-        <h1>423 Teton Circle</h1>
+       <a href="/home2"><h1>423 Teton Circle</h1></a>
       </div>
     </div>
   </div>

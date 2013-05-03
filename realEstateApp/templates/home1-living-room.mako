@@ -27,7 +27,7 @@
         </ul>
       </div>
       <div class="panel">
-        <h1>3134 Lower West Branch Road</h1>
+        <a href="/home1"><h1>3134 Lower West Branch Road</h1></a>
       </div>
     </div>
   </div>
@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="Staged"></a>
-        <h3>Living Room</h3>
+        <h3><small>Living Room<small></h3>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/home1/livingroomvirtuallystaged_1200.jpg" />

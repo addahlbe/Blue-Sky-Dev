@@ -27,7 +27,7 @@
         </ul>
       </div>
       <div class="panel">
-        <h1>3134 Lower West Branch Road</h1>
+        <a href="/home1"><h1>3134 Lower West Branch Road</h1></a>
       </div>
     </div>
   </div>
