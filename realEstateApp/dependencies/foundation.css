@@ -3303,8 +3303,11 @@ kbd {
   margin-bottom: 1.25em;
   padding: 1.25em;
   background: #f2f2f2; }
-  .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p {
-    color: #333333; }
+  .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6{
+    color: #df6400; }
+    .panel p {
+      color: #08172b;
+    }
   .panel > :first-child {
     margin-top: 0; }
   .panel > :last-child {
