@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="Front"></a>
-        <h3>Exterior</h3>
+        <h1><small>Exterior</small></h1>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/home1/MainExterior.jpg"/>

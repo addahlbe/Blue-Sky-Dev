@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="Stairwell"></a>
-        <a href="/home1/exterior"><h3>Stairs / Landing</h3></a>
+        <h1><small>Stairs / Landing</small></h1>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/home1/stairwell_1200.jpg"/>

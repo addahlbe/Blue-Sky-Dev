@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="View_1"></a>
-        <a href="/home1/exterior"><h3>Kitchen</h3></a>
+        <h3><small>Kitchen</small></h1>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/home2/kitchen_1200.jpg"/>

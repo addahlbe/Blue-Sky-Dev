@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="Front"></a>
-        <a href="/home2/exterior"><h3>Exterior</h3></a>
+        <h1><small>Exterior</small></h1>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/home2/MainExterior.jpg"/>

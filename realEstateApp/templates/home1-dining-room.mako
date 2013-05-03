@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="Staged_View"></a>
-        <a href="/home1/exterior"><h3>Dining Room</h3></a>
+        <h1><small>Dining Room</small></h1>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/home1/livingdiningandkitchenvirtuallystaged_1200.jpg"/>

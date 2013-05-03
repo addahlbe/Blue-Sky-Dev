@@ -93,7 +93,7 @@
       <p>
         123 Awesome St.<br />
         Barsoom, MA 95155 <br />
-        <small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Iowa+City,+IA&amp;aq=0&amp;oq=iowa+ci&amp;sll=41.718799,-91.650867&amp;sspn=0.06855,0.154324&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Iowa+City,+Johnson,+Iowa&amp;z=12&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+        <small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Iowa+City,+IA&amp;aq=0&amp;oq=iowa+ci&amp;sll=41.718799,-91.650867&amp;sspn=0.06855,0.154324&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Iowa+City,+Johnson,+Iowa&amp;z=12&amp;iwloc=A" style="text-align:left">View Larger Map</a></small>
       </p>
       </div>
     </div>

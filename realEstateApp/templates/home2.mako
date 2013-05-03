@@ -323,7 +323,7 @@
 
           </div>
             <div class="large-6 columns">
-              <div id="slideshow3">
+              <div id="slideshow4">
                 <div>
                   <img src="/style/images/home2/foyer_1200.jpg"/>
                 </div>
@@ -468,10 +468,8 @@
             <p>Boudin aliqua adipisicing rump corned beef. Nulla corned beef sunt ball tip, qui bresaola enim jowl. Capicola short ribs minim salami nulla nostrud pastrami.</p>
           </div>
           <div class="large-6 columns">
-            <div id="slideshow7">
-                <div>
-                  <img src="/style/images/home2/laundryroom_1200.jpg" />
-                </div>
+              <div>
+                <img src="/style/images/home2/laundryroom_1200.jpg" />
               </div>
           </div>
         </div>

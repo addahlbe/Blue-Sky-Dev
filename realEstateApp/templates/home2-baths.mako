@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="Master"></a>
-        <a href="/home2/exterior"><h3>Bathrooms</h3></a>
+        <h1><small>Bathrooms</small></h1>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/home2/masterbathroom_1200.jpg"/>
