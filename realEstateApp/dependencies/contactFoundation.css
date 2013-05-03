@@ -995,7 +995,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2125em; }
   h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
     font-size: 60%;
-    color: #6f6f6f;
+    color: #071e36;
     line-height: 0; }
 
 h1 {
@@ -1242,7 +1242,7 @@ button, .button {
   padding-bottom: 0.8125em;
   padding-left: 1.5em;
   font-size: 1em;
-  background-color: #2ba6cb;
+  background-color: #519dd3;
   border-color: #2284a1;
   color: white; }
   button:hover, button:focus, .button:hover, .button:focus {
@@ -3280,8 +3280,11 @@ kbd {
   margin-bottom: 1.25em;
   padding: 1.25em;
   background: #f2f2f2; }
-  .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p {
-    color: #333333; }
+  .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6 {
+    color: #df6400; }
+    .panel p {
+      color: #071e36 ;
+    }
   .panel > :first-child {
     margin-top: 0; }
   .panel > :last-child {
