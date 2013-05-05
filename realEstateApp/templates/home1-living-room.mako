@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="Staged"></a>
-        <h3><small>Living Room<small></h3>
+        <h1><small>Living Room<small></h1>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/home1/livingroomvirtuallystaged_1200.jpg" />

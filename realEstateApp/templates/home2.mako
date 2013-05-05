@@ -193,13 +193,8 @@
 
           </div>
             <div class="large-6 columns">
-              <div id="slideshow">
-                <div>
-                  <img src="/style/images/home2/MainExterior.jpg"/>
-                </div>
-                <div>
-                  <img src="/style/images/home2/rearview_1200.jpg"/>
-                </div>
+              <div>
+                <a href="/home2/exterior"><img src="/style/images/home2/MainExterior.jpg"/></a>
               </div>
             </div>
           </div>
@@ -225,13 +220,13 @@
             <div class="large-6 columns">
               <div id="slideshow1">
                 <div>
-                  <img src="/style/images/home2/greatroom1_1200.jpg"/>
+                  <a href="/home2/living-room"><img src="/style/images/home2/greatroom1_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/greatroom_1200.jpg"/>
+                  <a href="/home2/living-room"><img src="/style/images/home2/greatroom_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/livingroom_1200.jpg"/>
+                  <a href="/home2/living-room"><img src="/style/images/home2/livingroom_1200.jpg"/></a>
                 </div>
               </div>
             </div>
@@ -257,19 +252,19 @@
             <div class="large-6 columns">
               <div id="slideshow2">
                 <div>
-                  <img src="/style/images/home2/kitchen1_1200.jpg" />
+                  <a href="/home2/kitchen"><img src="/style/images/home2/kitchen1_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/kitchen_1200.jpg"/>
+                  <a href="/home2/kitchen"><img src="/style/images/home2/kitchen_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/kitchen2_1200.jpg" />
+                  <a href="/home2/kitchen"><img src="/style/images/home2/kitchen2_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/kitchen3_1200.jpg"/>
+                  <a href="/home2/kitchen"><img src="/style/images/home2/kitchen3_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/breakfastbar_1200.jpg"/>
+                  <a href="/home2/kitchen"><img src="/style/images/home2/breakfastbar_1200.jpg"/></a>
                 </div>
               </div>
             </div>
@@ -295,10 +290,10 @@
             <div class="large-6 columns">
               <div id="slideshow3">
                 <div>
-                  <img src="/style/images/home2/diningarea_1200.jpg"/>
+                  <a href="/home2/dining-room"><img src="/style/images/home2/diningarea_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/diningarea1_1200.jpg"/>
+                  <a href="/home2/dining-room"><img src="/style/images/home2/diningarea1_1200.jpg"/></a>
                 </div>
               </div>
             </div>
@@ -325,10 +320,10 @@
             <div class="large-6 columns">
               <div id="slideshow4">
                 <div>
-                  <img src="/style/images/home2/foyer_1200.jpg"/>
+                  <a href="/home2/stairs"><img src="/style/images/home2/foyer_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/upperlanding_1200.jpg"/>
+                  <a href="/home2/stairs"><img src="/style/images/home2/upperlanding_1200.jpg"/></a>
                 </div>
               </div>
 
@@ -356,22 +351,22 @@
             <div class="large-6 columns">
               <div id="slideshow5">
                 <div>
-                  <img src="/style/images/Home2/masterbedroom1_1200.jpg" />
+                  <a href="/home2/bedrooms"><img src="/style/images/Home2/masterbedroom1_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/Home1/masterbedroom_1200.jpg" />
+                  <a href="/home2/bedrooms"><img src="/style/images/Home1/masterbedroom_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/bedroom_1200.jpg"/>
+                  <a href="/home2/bedrooms"><img src="/style/images/home2/bedroom_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/bedroom1_1200.jpg"/>
+                  <a href="/home2/bedrooms"><img src="/style/images/home2/bedroom1_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/bedroom2_1200.jpg"/>
+                  <a href="/home2/bedrooms"><img src="/style/images/home2/bedroom2_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/lowerlevelbedroom_1200.jpg"/>
+                  <a href="/home2/bedrooms"><img src="/style/images/home2/lowerlevelbedroom_1200.jpg"/></a>
                 </div>
               </div>
             </div>
@@ -397,16 +392,16 @@
           <div class="large-6 columns">
               <div id="slideshow6">
                 <div>
-                  <img src="/style/images/home2/masterbathroom_1200.jpg" />
+                  <a href="/home2/baths"><img src="/style/images/home2/masterbathroom_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/bathroom_1200.jpg"/>
+                  <a href="/home2/baths"><img src="/style/images/home2/bathroom_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/bathroom1_1200.jpg"/>
+                  <a href="/home2/baths"><img src="/style/images/home2/bathroom1_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/lowerlevelbathroom_1200.jpg"/>
+                  <a href="/home2/baths"><img src="/style/images/home2/lowerlevelbathroom_1200.jpg"/></a>
                 </div>
               </div>
           </div>
@@ -432,19 +427,19 @@
           <div class="large-6 columns">
             <div id="slideshow7">
                 <div>
-                  <img src="/style/images/home2/lowerlevel1_1200.jpg" />
+                  <a href="/home2/lower-level"><img src="/style/images/home2/lowerlevel1_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/lowerlevel_1200.jpg"/>
+                  <a href="/home2/lower-level"><img src="/style/images/home2/lowerlevel_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/laundryroom_1200.jpg"/>
+                  <a href="/home2/lower-level"><img src="/style/images/home2/laundryroom_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/lowerlevelbathroom_1200.jpg"/>
+                  <a href="/home2/lower-level"><img src="/style/images/home2/lowerlevelbathroom_1200.jpg"/></a>
                 </div>
                 <div>
-                  <img src="/style/images/home2/lowerlevelbedroom_1200.jpg"/>
+                  <a href="/home2/lower-level"><img src="/style/images/home2/lowerlevelbedroom_1200.jpg"/></a>
                 </div>
               </div>
           </div>
@@ -469,7 +464,7 @@
           </div>
           <div class="large-6 columns">
               <div>
-                <img src="/style/images/home2/laundryroom_1200.jpg" />
+                <a href="/home2/more"><img src="/style/images/home2/laundryroom_1200.jpg"/></a>
               </div>
           </div>
         </div>

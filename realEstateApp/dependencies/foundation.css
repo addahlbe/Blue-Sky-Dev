@@ -985,11 +985,11 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #519dd3;
+  color: #df6400;
   text-decoration: none;
   line-height: inherit; }
   a:hover, a:focus {
-    color: #2795b6; }
+    color: #071e36; }
   a img {
     border: none; }
 
@@ -1011,14 +1011,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
-  color: #052037;
+  color: #071e36;
   text-rendering: optimizeLegibility;
   margin-top: 0.2em;
   margin-bottom: 0.5em;
   line-height: 1.2125em; }
   h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
     font-size: 60%;
-    color: #EB770C;
+    color: #df6400;
     line-height: 0; }
 
 h1 {
@@ -3304,9 +3304,9 @@ kbd {
   padding: 1.25em;
   background: #f2f2f2; }
   .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6{
-    color: #df6400; }
-    .panel p {
-      color: #071e36;
+    color: #071e36; }
+  .panel p {
+      color: #519dd3;
     }
   .panel > :first-child {
     margin-top: 0; }

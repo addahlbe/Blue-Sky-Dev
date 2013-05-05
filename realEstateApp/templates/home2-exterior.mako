@@ -55,17 +55,6 @@
 
       <hr />
 
-      <article>
-        <div class="row">
-          <a id="Rear"></a>
-          <div class="large-12 columns">
-            <img src="/style/images/home2/rearview_1200.jpg"/>
-          </div>
-        </div>
-      </article>
-
-      <hr />
-
     </div>
 
     <!-- End Main Content -->
@@ -78,7 +67,6 @@
       <h5>Categories</h5>
       <ul class="side-nav">
         <li><a href="#Front">Front View</a></li>
-        <li><a href="#Rear">Rear View</a></li>
 
       </ul>
 

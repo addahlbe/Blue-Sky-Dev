@@ -33,17 +33,20 @@
 
 </head>
 <body>
+
 <div class="row">
-  <div class="large-12 columns">
-      <div class="row">
-        <div class="large-12 columns" style="margin-top:20px;">
-          <!--<div class="panel">-->
-          <!--<h1><img style="height:200px width:400px" src="/style/images/logo/BlueSkySmall.jpg" /></h1>-->
-            <h2 style="color:#EB770C">THOUGHTFUL DESIGN FOR DAILY LIVING.</h2>
-            <h1 style="color:#052037; font-size:500%; text-align:center"><i>BLUE SKY</i></h1>
-          <!--</div>-->
-        </div>
+  <div class="panel">
+    <div class="row">
+      <div class="large-3 columns">
+        <img src="/style/images/logo/blueskylogonotext.jpg" border="0" padding="0">
       </div>
+      <div class="large-9 columns">
+        <h1>Blue Sky</h1>
+        <h1><small>THOUGHTFUL DESIGN FOR DAILY LIVING</small></h1>
+      </div>
+    </div>
+  </div>
+</div>
 
     <!-- End Header and Nav -->
 
@@ -65,67 +68,127 @@
                 <img border="0" src="/style/images/Home1/bedroom4_1200.jpg" alt="Bedroom4 / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/diningarea_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/diningarea_1200.jpg" alt="Dining Room / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/masterbathroom1_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/masterbathroom1_1200.jpg" alt="Master Bath 1 / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/masterbathroom_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/masterbathroom_1200.jpg" alt="Master Bath / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/masterbedroom_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/masterbedroom_1200.jpg" alt="Master Bedroom / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/masterbedroomvirtuallystaged_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/masterbedroomvirtuallystaged_1200.jpg" alt="Master Staged / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/fireplace_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/fireplace_1200.jpg" alt="Fireplace / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/frontporch_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/frontporch_1200.jpg" alt="Front Porch / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/jackandjillbathroom_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/jackandjillbathroom_1200.jpg" alt="Jack_Jill / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/kitchen1_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/kitchen1_1200.jpg" alt="Kitchen 1 / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/kitchen_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/kitchen_1200.jpg" alt="Kitchen / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/laundryroom_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/livingroom1_1200.jpg" alt="Living Room 1 / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/livingdiningandkitchenvirtuallystaged_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/livingdiningandkitchenvirtuallystaged_1200.jpg" alt="Living_Kitchen_Staged / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/livingroom1_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/livingroom2_1200.jpg" alt="Living Room 2 / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/livingroom2_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/livingroomvirtuallystaged_1200.jpg" alt="Living Staged / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/livingroom3_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/livingroom3_1200.jpg" alt="Living Room 3 / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/livingroom_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/livingroom_1200.jpg" alt="Living Room / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/livingroomvirtuallystaged_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/stairwell_1200.jpg" alt="Stairwell / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/rearview_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home1/upperlanding_1200.jpg" alt="Landing / Image Broken">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/stairwell_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home2/bedroom_1200.jpg" alt="">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/upperlanding_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home2/bedroom1_1200.jpg" alt="">
               </div>
               <div>
-                <img border="0" src="/style/images/Home1/windowseat_1200.jpg" alt="Bedroom4 / Image Broken">
+                <img border="0" src="/style/images/Home2/bedroom2_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/bathroom_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/bathroom1_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/breakfastbar_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/diningarea_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/diningarea1_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/familyroom_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/greatroom_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/greatroom1_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/kitchen_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/kitchen1_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/kitchen2_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/kitchen3_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/livingroom_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/lowerlevel_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/lowerlevel1_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/lowerlevelbedroom_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/lowerlevelbathroom_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/masterbathroom_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/masterbedroom_1200.jpg" alt="">
+              </div>
+              <div>
+                <img border="0" src="/style/images/Home2/masterbedroom1_1200.jpg" alt="">
               </div>
             </div>
         </div>
@@ -170,8 +233,6 @@
         </div> -->
           </div>
 
-        </div>
-
     <!-- Call to Action Panel -->
     <div class="row">
         <div class="large-12 columns">
@@ -180,10 +241,10 @@
             <h4>Get in touch!</h4>
 
             <div class="row">
-              <div class="large-9 columns">
+              <div class="large-6 columns">
                 <p>We'd love to hear from you.</p>
               </div>
-              <div class="large-3 columns">
+              <div class="large-6 columns">
                 <a href="/contact-info" class="radius button right">Contact Us</a>
               </div>
             </div>
@@ -191,7 +252,36 @@
 
         </div>
       </div>
+    </div> 
+
+        <!-- Call to Action Panel -->
+    <div class="row">
+      <div class="large-12 columns">
+        <div class="large-4 columns">
+          <div class="panel" style="height: 130px">
+            <h4>Get in touch!</h4>
+            <p>We'd love to hear from you.</p>
+          </div>
+        </div>
+        <div class="large-4 columns">
+          <div class="panel" style="height: 130px">
+            <h4>Like us on Facebook!</h4>
+            <div>
+              <a href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?hc_location=stream">
+                <img src="/style/images/Facebook.jpg" width="50px" height="50px" align="middle">
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="large-4 columns">
+          <div class="panel" style="height: 130px">
+            <h4>Contact Us!</h4>
+            <a href="/contact-info" class="radius button">Contact Us</a>
+          </div>
+        </div>
+      </div>
     </div>
+
 </div>
   <!-- Footer -->
 
@@ -199,10 +289,20 @@
     <div class="large-12 columns">
       <hr />
       <div class="row">
-        <div class="large-6 columns">
+        <div class="large-4 columns">
           <p>&copy; Copyright Blue Sky, LLC.</p>
         </div>
-        <div class="large-6 columns">
+        <div class="large-4 columns">
+          <ul class="inline-list">
+            <li><p>Like us on Facebook!</p></li>
+            <li>
+              <a href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?hc_location=stream">
+                <img src="/style/images/Facebook.jpg" width="35px" height="35px">
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="large-4 columns">
           <ul class="inline-list right">
             <li><a href="#">Feedback</a></li>
             <li><a href="#">Legal</a></li>

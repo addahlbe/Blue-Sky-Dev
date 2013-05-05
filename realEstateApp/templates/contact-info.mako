@@ -62,7 +62,7 @@
           <h5 class="title">Specific Person</h5>
           <div class="content" data-slug="panel2">
             <ul class="large-block-grid-5">
-              <li><a href="mailto:mal@serenity.bc.reb"><img src="http://placehold.it/200x200&amp;text=[person]">Mal Reynolds</a></li>
+              <li><a href="mailto:blueskydev@rocketmail.com"><img src="/style/images/Blaine_Face.jpg">Blaine Thomas</a></li>
               <li><a href="mailto:zoe@serenity.bc.reb"><img src="http://placehold.it/200x200&amp;text=[person]">Zoe Washburne</a></li>
               <li><a href="mailto:jayne@serenity.bc.reb"><img src="http://placehold.it/200x200&amp;text=[person]">Jayne Cobb</a></li>
               <li><a href="mailto:doc@serenity.bc.reb"><img src="http://placehold.it/200x200&amp;text=[person]">Simon Tam</a></li>

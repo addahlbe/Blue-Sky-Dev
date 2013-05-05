@@ -68,17 +68,6 @@
 
       <article>
         <div class="row">
-          <a id="Rear"></a>
-          <div class="large-12 columns">
-            <img src="/style/images/home1/rearview_1200.jpg"/>
-          </div>
-        </div>
-      </article>
-
-      <hr />
-
-      <article>
-        <div class="row">
           <a id="Lighting1"></a>
           <div class="large-12 columns">
             <img src="/style/images/home1/exteriorlighting1_1200.jpg"/>
@@ -112,7 +101,6 @@
       <ul class="side-nav">
         <li><a href="#Front">Front View</a></li>
         <li><a href="#Entrance">Entrance</a></li>
-        <li><a href="#Rear">Rear View</a></li>
         <li><a href="#Lighting1">Lighting</a></li>
         <li><a href="#Lighting2">Lighting View 2</a></li>
 
