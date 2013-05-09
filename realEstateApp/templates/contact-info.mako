@@ -104,10 +104,19 @@
   <div class="row">
     <div class="large-12 columns">
       <div class="panel">
-        <h5 class="title"> General Contact Info </h5>
-        <p> Contact info here </p>
-        <p> and here </p>
-        <p> and so on </p>
+        <div class="row">
+          <div class="large-6 columns">
+            <h5 class="title"> Contact Info </h5>
+            <p> E-mail: blueskydev@rocketmail.com </p>
+            <p> Phone: (319) 688-BSKY (2759) </p>
+          </div>
+          <div class="large-6 columns">
+            <h5 class="title"> Visit Our Facebook Page! </h5>
+            <a href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?fref=ts" target="_blank">
+              <img src="/style/images/Facebook.jpg" style="height: 30px; width: 30px">
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -120,7 +129,7 @@
       <hr />
       <div class="row">
         <div class="large-6 columns">
-          <p>&copy; Copyright Blue Sky, LLC.</p>
+          <p>&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
         <div class="large-6 columns">
         </div>

@@ -33,6 +33,14 @@
 
 </head>
 <body>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="row">
   <div class="panel">
@@ -241,10 +249,13 @@
             <h4>Get in touch!</h4>
 
             <div class="row">
-              <div class="large-6 columns">
+              <div class="large-4 columns">
                 <p>We'd love to hear from you.</p>
               </div>
-              <div class="large-6 columns">
+              <div class="large-4 columns">
+                <div class="fb-like" data-align="middle" data-href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?fref=ts" data-send="true" data-show-faces="false" data-layout="standard"></div>
+              </div>
+              <div class="large-4 columns">
                 <a href="/contact-info" class="radius button right">Contact Us</a>
               </div>
             </div>
@@ -254,34 +265,6 @@
       </div>
     </div> 
 
-        <!-- Call to Action Panel -->
-    <div class="row">
-      <div class="large-12 columns">
-        <div class="large-4 columns">
-          <div class="panel" style="height: 130px">
-            <h4>Get in touch!</h4>
-            <p>We'd love to hear from you.</p>
-          </div>
-        </div>
-        <div class="large-4 columns">
-          <div class="panel" style="height: 130px">
-            <h4>Like us on Facebook!</h4>
-            <div>
-              <a href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?hc_location=stream">
-                <img src="/style/images/Facebook.jpg" width="50px" height="50px" align="middle">
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="large-4 columns">
-          <div class="panel" style="height: 130px">
-            <h4>Contact Us!</h4>
-            <a href="/contact-info" class="radius button">Contact Us</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
 </div>
   <!-- Footer -->
 
@@ -289,20 +272,10 @@
     <div class="large-12 columns">
       <hr />
       <div class="row">
-        <div class="large-4 columns">
-          <p>&copy; Copyright Blue Sky, LLC.</p>
+        <div class="large-6 columns">
+          <p>&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
-        <div class="large-4 columns">
-          <ul class="inline-list">
-            <li><p>Like us on Facebook!</p></li>
-            <li>
-              <a href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?hc_location=stream">
-                <img src="/style/images/Facebook.jpg" width="35px" height="35px">
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div class="large-4 columns">
+        <div class="large-6 columns">
           <ul class="inline-list right">
             <li><a href="#">Feedback</a></li>
             <li><a href="#">Legal</a></li>
