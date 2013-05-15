@@ -1122,7 +1122,7 @@ p {
   font-size: 1em;
   line-height: 1.6;
   margin-bottom: 1.25em;
-  color: #071e36;
+  color: #519dd3;
   text-rendering: optimizeLegibility; }
   p aside {
     font-size: 0.875em;
@@ -1134,7 +1134,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
-  color: #df6400;
+  color: #071e36;
   text-rendering: optimizeLegibility;
   margin-top: 0.2em;
   margin-bottom: 0.5em;
@@ -3557,7 +3557,7 @@ kbd {
     font-size: 0.875em; }
     .side-nav li a {
       display: block;
-      color: #2ba6cb; }
+      color: #df6400; }
     .side-nav li.active a {
       color: #4d4d4d;
       font-weight: bold; }

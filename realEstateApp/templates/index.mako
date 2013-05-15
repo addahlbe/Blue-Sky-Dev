@@ -249,13 +249,10 @@
             <h4>Get in touch!</h4>
 
             <div class="row">
-              <div class="large-4 columns">
+              <div class="large-6 columns">
                 <p>We'd love to hear from you.</p>
               </div>
-              <div class="large-4 columns">
-                <div class="fb-like" data-align="middle" data-href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?fref=ts" data-send="true" data-show-faces="false" data-layout="standard"></div>
-              </div>
-              <div class="large-4 columns">
+              <div class="large-6 columns">
                 <a href="/contact-info" class="radius button right">Contact Us</a>
               </div>
             </div>
@@ -272,10 +269,13 @@
     <div class="large-12 columns">
       <hr />
       <div class="row">
-        <div class="large-6 columns">
+        <div class="large-4 columns">
           <p>&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
-        <div class="large-6 columns">
+        <div class="large-4 columns">
+                <div class="fb-like" data-align="middle" data-href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?fref=ts" data-send="true" data-show-faces="false" data-layout="standard" data-width="100"></div>
+              </div>
+        <div class="large-4 columns">
           <ul class="inline-list right">
             <li><a href="#">Feedback</a></li>
             <li><a href="#">Legal</a></li>
