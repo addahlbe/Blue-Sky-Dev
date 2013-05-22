@@ -93,7 +93,7 @@
       <p>
         123 Awesome St.<br />
         Barsoom, MA 95155 <br />
-        <small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Iowa+City,+IA&amp;aq=0&amp;oq=iowa+ci&amp;sll=41.718799,-91.650867&amp;sspn=0.06855,0.154324&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Iowa+City,+Johnson,+Iowa&amp;z=12&amp;iwloc=A" style="text-align:left">View Larger Map</a></small>
+        <small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Iowa+City,+IA&amp;aq=0&amp;oq=iowa+ci&amp;sll=41.718799,-91.650867&amp;sspn=0.06855,0.154324&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Iowa+City,+Johnson,+Iowa&amp;z=12&amp;iwloc=A" style="text-align:left" target="_blank">View Larger Map</a></small>
       </p>
       </div>
     </div>
@@ -104,17 +104,33 @@
   <div class="row">
     <div class="large-12 columns">
       <div class="panel">
+        <br />
+        <h5 class="title"> Contact Info </h5>
+        <div class="large-4 columns">
+          <br />
+          <p> E-mail: blueskydev@rocketmail.com </p>
+        </div>
+        <div class="large-4 columns">
+          <br />
+          <p> Phone: (319) 688-BSKY (2759) </p>
+        </div>
+        <div class="large-4 columns">
+          <br />
+          <p> Location: 1234 Awesome Ave. Iowa City Iowa
+        </div>
+        <br />
+        <br />
+        <br />
+        <br />
         <div class="row">
-          <div class="large-6 columns">
-            <h5 class="title"> Contact Info </h5>
-            <p> E-mail: blueskydev@rocketmail.com </p>
-            <p> Phone: (319) 688-BSKY (2759) </p>
-          </div>
-          <div class="large-6 columns">
-            <h5 class="title"> Visit Our Facebook Page! </h5>
-            <a href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?fref=ts" target="_blank">
-              <img src="/style/images/Facebook.jpg" style="height: 30px; width: 30px">
-            </a>
+          <div class ="large-12 columns>">
+            <div class="large-4 columns">
+              <h5 class="title"> Visit Our Facebook Page! </h5>
+              <br />
+              <a href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?fref=ts" target="_blank">
+              <img src="/style/images/Facebook.jpg" style="height: 30px; width: 30px; margin-left:15px">
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -128,10 +144,12 @@
     <div class="large-12 columns">
       <hr />
       <div class="row">
-        <div class="large-6 columns">
+        <div class="large-4 columns">
           <p>&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
-        <div class="large-6 columns">
+        <div class="large-4 columns">
+        </div>
+        <div class="large-4 columns">
         </div>
       </div>
     </div>
