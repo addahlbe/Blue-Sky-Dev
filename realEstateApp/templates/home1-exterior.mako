@@ -48,7 +48,7 @@
         <h1><small>Exterior</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home1/MainExterior.jpg"/>
+            <img src="/style/images/Home1/MainExterior.jpg"/>
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="Entrance"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/frontporch_1200.jpg"/>
+            <img src="/style/images/Home1/frontporch_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -70,7 +70,7 @@
         <div class="row">
           <a id="Lighting1"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/exteriorlighting1_1200.jpg"/>
+            <img src="/style/images/Home1/exteriorlighting1_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -81,7 +81,7 @@
         <div class="row">
           <a id="Lighting2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/exteriorlighting_1200.jpg"/>
+            <img src="/style/images/Home1/exteriorlighting_1200.jpg"/>
           </div>
         </div>
       </article>

@@ -48,7 +48,7 @@
         <h1><small>Bathrooms</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home1/masterbathroom_1200.jpg"/>
+            <img src="/style/images/Home1/masterbathroom_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="Master_View_2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/masterbathroom1_1200.jpg"/>
+            <img src="/style/images/Home1/masterbathroom1_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -70,7 +70,7 @@
         <div class="row">
           <a id="Jack_and_Jill"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/jackandjillbathroom_1200.jpg"/>
+            <img src="/style/images/Home1/jackandjillbathroom_1200.jpg"/>
           </div>
         </div>
       </article>

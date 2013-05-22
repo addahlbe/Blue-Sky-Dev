@@ -48,7 +48,7 @@
         <h1><small>Bedrooms</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home2/masterbedroom_1200.jpg"/>
+            <img src="/style/images/Home2/masterbedroom_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="Master_View_2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/masterbedroom1_1200.jpg"/>
+            <img src="/style/images/Home2/masterbedroom1_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -70,7 +70,7 @@
         <div class="row">
           <a id="Bedroom_2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/bedroom_1200.jpg"/>
+            <img src="/style/images/Home2/bedroom_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -81,7 +81,7 @@
         <div class="row">
           <a id="Bedroom_3"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/bedroom1_1200.jpg"/>
+            <img src="/style/images/Home2/bedroom1_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -92,7 +92,7 @@
         <div class="row">
           <a id="Bedroom_4"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/bedroom2_1200.jpg"/>
+            <img src="/style/images/Home2/bedroom2_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -103,7 +103,7 @@
         <div class="row">
           <a id="Bedroom_5"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/lowerlevelbedroom_1200.jpg"/>
+            <img src="/style/images/Home2/lowerlevelbedroom_1200.jpg"/>
           </div>
         </div>
       </article>

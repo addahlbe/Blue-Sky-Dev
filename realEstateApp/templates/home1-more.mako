@@ -48,7 +48,7 @@
         <h1><small>More...</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home1/windowseat_1200.jpg"/>
+            <img src="/style/images/Home1/windowseat_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="Laundry_Room"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/laundryroom_1200.jpg"/>
+            <img src="/style/images/Home1/laundryroom_1200.jpg"/>
           </div>
         </div>
       </article>

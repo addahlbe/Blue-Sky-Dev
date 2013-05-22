@@ -30,177 +30,174 @@
 
     });
   </script>
+  <div id="fb-root">
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+  </div>
 
 </head>
 <body>
-  <div id="fb-root"></div>
-  <script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script>
-
-<div class="row">
-  <div class="panel">
-    <div class="row">
-      <div class="large-3 columns">
-        <img src="/style/images/logo/blueskylogonotext.jpg" border="0" padding="0">
-      </div>
-      <div class="large-9 columns">
-        <h1>Blue Sky</h1>
-        <h1><small>THOUGHTFUL DESIGN FOR DAILY LIVING</small></h1>
-      </div>
+  <div class="row" style="margin-top:25px">
+    <div class="large-3 columns">
+      <img src="/style/images/logo/blueskylogonotext.jpg" border="0" padding="0">
+    </div>
+    <div class="large-9 columns">
+      <h1>Blue Sky</h1>
+      <h1><small>THOUGHTFUL DESIGN FOR DAILY LIVING</small></h1>
     </div>
   </div>
-</div>
 
     <!-- End Header and Nav -->
 
     <!-- First Band (Slider) -->
 
-      <div class="row">
-        <div class="large-12 columns">
-           <div id="slideshow">
-              <div>
-                <img border="0" src="/style/images/Home1/bedroom1_1200.jpg" alt="Bedroom1 / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/bedroom2_1200.jpg" alt="Bedroom2 / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/bedroom3_1200.jpg" alt="Bedroom3 / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/bedroom4_1200.jpg" alt="Bedroom4 / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/diningarea_1200.jpg" alt="Dining Room / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/masterbathroom1_1200.jpg" alt="Master Bath 1 / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/masterbathroom_1200.jpg" alt="Master Bath / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/masterbedroom_1200.jpg" alt="Master Bedroom / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/masterbedroomvirtuallystaged_1200.jpg" alt="Master Staged / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/fireplace_1200.jpg" alt="Fireplace / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/frontporch_1200.jpg" alt="Front Porch / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/jackandjillbathroom_1200.jpg" alt="Jack_Jill / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/kitchen1_1200.jpg" alt="Kitchen 1 / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/kitchen_1200.jpg" alt="Kitchen / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/livingroom1_1200.jpg" alt="Living Room 1 / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/livingdiningandkitchenvirtuallystaged_1200.jpg" alt="Living_Kitchen_Staged / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/livingroom2_1200.jpg" alt="Living Room 2 / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/livingroomvirtuallystaged_1200.jpg" alt="Living Staged / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/livingroom3_1200.jpg" alt="Living Room 3 / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/livingroom_1200.jpg" alt="Living Room / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/stairwell_1200.jpg" alt="Stairwell / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home1/upperlanding_1200.jpg" alt="Landing / Image Broken">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/bedroom_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/bedroom1_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/bedroom2_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/bathroom_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/bathroom1_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/breakfastbar_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/diningarea_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/diningarea1_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/familyroom_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/greatroom_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/greatroom1_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/kitchen_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/kitchen1_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/kitchen2_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/kitchen3_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/livingroom_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/lowerlevel_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/lowerlevel1_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/lowerlevelbedroom_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/lowerlevelbathroom_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/masterbathroom_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/masterbedroom_1200.jpg" alt="">
-              </div>
-              <div>
-                <img border="0" src="/style/images/Home2/masterbedroom1_1200.jpg" alt="">
-              </div>
-            </div>
+  <div class="row">
+    <div class="large-12 columns">
+       <div id="slideshow">
+          <div>
+            <img border="0" src="/style/images/Home1/bedroom1_1200.jpg" alt="Bedroom1 / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/bedroom2_1200.jpg" alt="Bedroom2 / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/bedroom3_1200.jpg" alt="Bedroom3 / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/bedroom4_1200.jpg" alt="Bedroom4 / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/diningarea_1200.jpg" alt="Dining Room / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/masterbathroom1_1200.jpg" alt="Master Bath 1 / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/masterbathroom_1200.jpg" alt="Master Bath / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/masterbedroom_1200.jpg" alt="Master Bedroom / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/masterbedroomvirtuallystaged_1200.jpg" alt="Master Staged / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/fireplace_1200.jpg" alt="Fireplace / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/frontporch_1200.jpg" alt="Front Porch / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/jackandjillbathroom_1200.jpg" alt="Jack_Jill / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/kitchen1_1200.jpg" alt="Kitchen 1 / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/kitchen_1200.jpg" alt="Kitchen / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/livingroom1_1200.jpg" alt="Living Room 1 / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/livingdiningandkitchenvirtuallystaged_1200.jpg" alt="Living_Kitchen_Staged / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/livingroom2_1200.jpg" alt="Living Room 2 / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/livingroomvirtuallystaged_1200.jpg" alt="Living Staged / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/livingroom3_1200.jpg" alt="Living Room 3 / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/livingroom_1200.jpg" alt="Living Room / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/stairwell_1200.jpg" alt="Stairwell / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home1/upperlanding_1200.jpg" alt="Landing / Image Broken">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/bedroom_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/bedroom1_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/bedroom2_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/bathroom_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/bathroom1_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/breakfastbar_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/diningarea_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/diningarea1_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/familyroom_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/greatroom_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/greatroom1_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/kitchen_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/kitchen1_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/kitchen2_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/kitchen3_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/livingroom_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/lowerlevel_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/lowerlevel1_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/lowerlevelbedroom_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/lowerlevelbathroom_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/masterbathroom_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/masterbedroom_1200.jpg" alt="">
+          </div>
+          <div>
+            <img border="0" src="/style/images/Home2/masterbedroom1_1200.jpg" alt="">
+          </div>
         </div>
-      </div>
+    </div>
+  </div>
 
       <div class="row">
         <div class="large-12 columns" style="margin-top:20px">
@@ -260,7 +257,7 @@
 
         </div>
       </div>
-    </div> 
+    </div>
 
 </div>
   <!-- Footer -->
@@ -277,9 +274,9 @@
               </div>
         <div class="large-4 columns">
           <ul class="inline-list right">
-            <li><a href="#">Feedback</a></li>
+<!--             <li><a href="#">Feedback</a></li>
             <li><a href="#">Legal</a></li>
-            <li><a href="#">Need a Webpage?</a></li>
+            <li><a href="#">Need a Webpage?</a></li> -->
           </ul>
         </div>
       </div>

@@ -48,7 +48,7 @@
         <h1><small>Exterior</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home2/MainExterior.jpg"/>
+            <img src="/style/images/Home2/MainExterior.jpg"/>
           </div>
         </div>
       </article>

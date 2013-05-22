@@ -48,7 +48,7 @@
         <h1><small>Lower Level</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home2/lowerlevel_1200.jpg"/>
+            <img src="/style/images/Home2/lowerlevel_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="View_2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/lowerlevel1_1200.jpg"/>
+            <img src="/style/images/Home2/lowerlevel1_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -70,7 +70,7 @@
         <div class="row">
           <a id="Family_Room"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/familyroom_1200.jpg"/>
+            <img src="/style/images/Home2/familyroom_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -81,7 +81,7 @@
         <div class="row">
           <a id="Wet_Bar"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/wetbar_1200.jpg"/>
+            <img src="/style/images/Home2/wetbar_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -92,7 +92,7 @@
         <div class="row">
           <a id="Bedroom"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/lowerlevelbedroom_1200.jpg"/>
+            <img src="/style/images/Home2/lowerlevelbedroom_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -103,7 +103,7 @@
         <div class="row">
           <a id="Bathroom"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/lowerlevelbathroom_1200.jpg"/>
+            <img src="/style/images/Home2/lowerlevelbathroom_1200.jpg"/>
           </div>
         </div>
       </article>

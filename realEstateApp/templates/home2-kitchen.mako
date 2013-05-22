@@ -48,7 +48,7 @@
         <h3><small>Kitchen</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home2/kitchen_1200.jpg"/>
+            <img src="/style/images/Home2/kitchen_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="View_2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/kitchen1_1200.jpg"/>
+            <img src="/style/images/Home2/kitchen1_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -70,7 +70,7 @@
         <div class="row">
           <a id="View_3"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/kitchen2_1200.jpg"/>
+            <img src="/style/images/Home2/kitchen2_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -81,7 +81,7 @@
         <div class="row">
           <a id="View_4"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/kitchen3_1200.jpg"/>
+            <img src="/style/images/Home2/kitchen3_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -92,7 +92,7 @@
         <div class="row">
           <a id="View_5"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/breakfastbar_1200.jpg"/>
+            <img src="/style/images/Home2/breakfastbar_1200.jpg"/>
           </div>
         </div>
       </article>

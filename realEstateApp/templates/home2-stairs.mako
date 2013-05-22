@@ -48,7 +48,7 @@
         <h1><small>Stairs / Landing</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home2/foyer_1200.jpg"/>
+            <img src="/style/images/Home2/foyer_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="Landing"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home2/upperlanding_1200.jpg"/>
+            <img src="/style/images/Home2/upperlanding_1200.jpg"/>
           </div>
         </div>
       </article>

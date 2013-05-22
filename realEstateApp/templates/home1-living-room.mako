@@ -48,7 +48,7 @@
         <h1><small>Living Room<small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home1/livingroomvirtuallystaged_1200.jpg" />
+            <img src="/style/images/Home1/livingroomvirtuallystaged_1200.jpg" />
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="View1"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/livingroom1_1200.jpg"/>
+            <img src="/style/images/Home1/livingroom1_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -70,7 +70,7 @@
         <div class="row">
           <a id="View2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/livingroom2_1200.jpg"/>
+            <img src="/style/images/Home1/livingroom2_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -81,7 +81,7 @@
         <div class="row">
           <a id="View3"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/livingroom3_1200.jpg"/>
+            <img src="/style/images/Home1/livingroom3_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -92,7 +92,7 @@
         <div class="row">
           <a id="View4"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/livingroom_1200.jpg"/>
+            <img src="/style/images/Home1/livingroom_1200.jpg"/>
           </div>
         </div>
       </article>

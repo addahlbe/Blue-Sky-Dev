@@ -48,7 +48,7 @@
         <h1><small>Dining Room</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home1/livingdiningandkitchenvirtuallystaged_1200.jpg"/>
+            <img src="/style/images/Home1/livingdiningandkitchenvirtuallystaged_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="View_2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/diningarea_1200.jpg"/>
+            <img src="/style/images/Home1/diningarea_1200.jpg"/>
           </div>
         </div>
       </article>

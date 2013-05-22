@@ -48,7 +48,7 @@
         <h1><small>Kitchen</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home1/kitchen_1200.jpg"/>
+            <img src="/style/images/Home1/kitchen_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="View_2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/kitchen1_1200.jpg"/>
+            <img src="/style/images/Home1/kitchen1_1200.jpg"/>
           </div>
         </div>
       </article>

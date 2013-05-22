@@ -48,7 +48,7 @@
         <h1><small>Bedrooms</small></h1>
         <div class="row">
           <div class="large-12 columns">
-            <img src="/style/images/home1/masterbedroomvirtuallystaged_1200.jpg"/>
+            <img src="/style/images/Home1/masterbedroomvirtuallystaged_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -59,7 +59,7 @@
         <div class="row">
           <a id="Master"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/masterbedroom_1200.jpg"/>
+            <img src="/style/images/Home1/masterbedroom_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -70,7 +70,7 @@
         <div class="row">
           <a id="Bedroom_2_View_1"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/bedroom_1200.jpg"/>
+            <img src="/style/images/Home1/bedroom_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -81,7 +81,7 @@
         <div class="row">
           <a id="Bedroom_2_View_2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/bedroom1_1200.jpg"/>
+            <img src="/style/images/Home1/bedroom1_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -92,7 +92,7 @@
         <div class="row">
           <a id="Bedroom_3"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/bedroom2_1200.jpg"/>
+            <img src="/style/images/Home1/bedroom2_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -103,7 +103,7 @@
         <div class="row">
           <a id="Bedroom_4_View_1"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/bedroom3_1200.jpg"/>
+            <img src="/style/images/Home1/bedroom3_1200.jpg"/>
           </div>
         </div>
       </article>
@@ -114,7 +114,7 @@
         <div class="row">
           <a id="Bedroom_4_View_2"></a>
           <div class="large-12 columns">
-            <img src="/style/images/home1/bedroom4_1200.jpg"/>
+            <img src="/style/images/Home1/bedroom4_1200.jpg"/>
           </div>
         </div>
       </article>
