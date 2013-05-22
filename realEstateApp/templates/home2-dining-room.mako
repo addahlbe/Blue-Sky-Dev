@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="View_1"></a>
-        <h1><small>Dining Room<small></h1>
+        <h1><small>Dining Room</small></h1>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/Home2/diningarea_1200.jpg"/>
@@ -81,15 +81,6 @@
         <li><a href="#View_2">View 2</a></li>
 
       </ul>
-
-<!--       <div class="panel">
-        <h5>Featured</h5>
-        <p>X amount of bathrooms</p>
-        <p>X ammount of rooms </p>
-        <p>Location </p>
-        <p>Cost</p>
-        <a href="#">Read More &rarr;</a>
-      </div> -->
 
     </aside>
 

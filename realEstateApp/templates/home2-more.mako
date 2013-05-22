@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="Laundry_Room"></a>
-        <h1><small>More...<small></h1>
+        <h1><small>More...</small></h1>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/Home2/laundryroom_1200.jpg"/>
@@ -69,15 +69,6 @@
         <li><a href="#Laundry_Room">Laundry Room</a></li>
 
       </ul>
-
-<!--       <div class="panel">
-        <h5>Featured</h5>
-        <p>X amount of bathrooms</p>
-        <p>X ammount of rooms </p>
-        <p>Location </p>
-        <p>Cost</p>
-        <a href="#">Read More &rarr;</a>
-      </div> -->
 
     </aside>
 
