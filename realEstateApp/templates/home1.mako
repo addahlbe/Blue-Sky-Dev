@@ -12,9 +12,9 @@
   <link rel="stylesheet" href="/style/homeNormalize.css">
   <link rel="stylesheet" href="/style/homeFoundation.css">
 
-  <script src="js/vendor/custom.modernizr.js"></script>
   <!-- slide shows -->
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+
   <script>
     $(function() {
 
@@ -164,12 +164,8 @@
          <li><a href="/" class="button">Blue Sky Home</a></li>
         </ul>
       </div>
-      <div class="panel">
         <h1>3134 Lower West Branch Road</h1>
-        <h1><small>This is the home design type.</small></h1>
       </div>
-
-    </div>
   </div>
 
   <!-- End Nav -->
@@ -177,13 +173,12 @@
 
   <!-- Main Page Content and Sidebar -->
 
-  <div class="row">
+  <div class="row" id="mainBody">
 
     <!-- Main Display Content -->
     <div class="large-9 columns" role="content">
 
       <article>
-      <hr />
         <a id="Exterior"></a>
         <a href="/home1/exterior"><h3>Exterior</h3></a>
 
@@ -461,8 +456,6 @@
 
       </article>
 
-      <hr />
-
     </div>
 
     <!-- End Main Content -->
@@ -500,7 +493,8 @@
 
   <!-- End Main Content and Sidebar -->
 
-
+<br />
+<br />
   <!-- Footer -->
 
   <footer class="row">
@@ -510,22 +504,22 @@
           <p style="color: black">&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
         <div class="large-6 columns">
-          <a href="#Top" style="margin-left:100px">Return To Top</a>
+          <a href="#Top" style="margin-left: margin-left:400px;margin-left: 360px;">Return To Top</a>
         </div>
       </div>
     </div>
   </footer>
-
+<!--
   <script>
   document.write('<script src=js/vendor/' +
   ('__proto__' in {} ? 'zepto' : 'jquery') +
   '.js><\/script>')
   </script>
-  <script src="js/foundation.min.js"></script>
+ <script src="js/foundation.min.js"></script>
   <script>
     $(document).foundation();
   </script>
 
-  <!-- End Footer -->
+  End Footer -->
 </body>
 </html>

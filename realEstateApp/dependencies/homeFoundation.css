@@ -10,7 +10,7 @@ body {
   font-size: 100%; }
 
 body {
-  background-image: url('../style/images/squairy_light.png');
+  background-image: url('../style/images/BSbg2.JPG');
   color: #222222;
   padding: 0;
   margin: 0;
@@ -22,6 +22,15 @@ body {
 
 a:focus {
   outline: none; }
+
+#mainBody {
+  background-color: white;
+  box-shadow: 2px 2px 2px 2px #888888;
+  outline: #519dd3 thick;
+  border-radius: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
 
 #slideshow {
   margin: 10px auto;
