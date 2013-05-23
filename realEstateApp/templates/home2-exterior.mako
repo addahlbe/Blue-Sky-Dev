@@ -67,17 +67,7 @@
       <h5>Categories</h5>
       <ul class="side-nav">
         <li><a href="#Front">Front View</a></li>
-
       </ul>
-
-<!--       <div class="panel">
-        <h5>Featured</h5>
-        <p>X amount of bathrooms</p>
-        <p>X ammount of rooms </p>
-        <p>Location </p>
-        <p>Cost</p>
-        <a href="#">Read More &rarr;</a>
-      </div> -->
 
     </aside>
 
