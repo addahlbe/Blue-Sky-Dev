@@ -26,9 +26,7 @@
          <li><a href="/" class="button">Blue Sky Home</a></li>
         </ul>
       </div>
-      <div class="panel">
         <a href="/home1"><h1>3134 Lower West Branch Road</h1></a>
-      <div>
     </div>
   </div>
 
