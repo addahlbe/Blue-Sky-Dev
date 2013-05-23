@@ -267,7 +267,7 @@
       <hr />
       <div class="row">
         <div class="large-4 columns">
-          <p>&copy; Copyright Blue Sky Development, Inc.</p>
+          <p style="color: #071e36">&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
         <div class="large-4 columns">
                 <div class="fb-like" data-align="middle" data-href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?fref=ts" data-send="true" data-show-faces="false" data-layout="standard" data-width="100"></div>

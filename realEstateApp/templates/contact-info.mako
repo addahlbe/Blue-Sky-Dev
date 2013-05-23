@@ -145,7 +145,7 @@
       <hr />
       <div class="row">
         <div class="large-4 columns">
-          <p>&copy; Copyright Blue Sky Development, Inc.</p>
+          <p style="color: #071e36">&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
         <div class="large-4 columns">
         </div>

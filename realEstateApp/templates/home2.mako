@@ -516,7 +516,7 @@
     <div class="large-12 columns">
       <div class="row">
         <div class="large-6 columns">
-          <p style="color: black">&copy; Copyright Blue Sky Development, Inc.</p>
+          <p style="color: #071e36">&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
         <div class="large-6 columns">
           <a href="#Top" style="margin-left: margin-left:400px;margin-left: 360px;">Return To Top</a>
