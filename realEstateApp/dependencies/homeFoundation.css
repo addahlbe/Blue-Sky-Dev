@@ -25,7 +25,7 @@ a:focus {
 
 #mainBody {
   background-color: white;
-  box-shadow: 2px 2px 2px 2px #888888;
+  box-shadow: 0px 2px 0px 0px #888888;
   outline: #519dd3 thick;
   border-radius: 25px;
   padding-top: 15px;
