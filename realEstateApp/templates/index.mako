@@ -270,7 +270,7 @@
           <p style="color: #071e36">&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
         <div class="large-4 columns">
-                <div class="fb-like" data-align="middle" data-href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?fref=ts" data-send="true" data-show-faces="false" data-layout="standard" data-width="100"></div>
+                <div class="fb-like" data-align="middle" data-href="https://www.facebook.com/pages/Blue-Sky-Development-Inc/300542150079686?fref=ts" data-send="true" data-show-faces="false" data-layout="standard" data-width="100" style="margin-left: 360px"></div>
               </div>
         <div class="large-4 columns">
           <ul class="inline-list right">
