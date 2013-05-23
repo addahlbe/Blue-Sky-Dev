@@ -63,7 +63,7 @@
           <!--<img border="0" src="/style/images/logo/BlueSkyMed.jpg" alt="Bedroom1 / Image Broken">-->
         </div>
       </div>
-      <p>&copy; Copyright Blue Sky, LLC.</p>
+      <p>&copy; Copyright Blue Sky Development, Inc.</p>
     </div>
 
     <!-- End Contact Details -->

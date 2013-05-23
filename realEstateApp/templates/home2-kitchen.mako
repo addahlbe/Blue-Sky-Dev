@@ -45,7 +45,7 @@
       <article>
       <hr />
         <a id="View_1"></a>
-        <h3><small>Kitchen</small></h1>
+        <h1><small>Kitchen</small></h1>
         <div class="row">
           <div class="large-12 columns">
             <img src="/style/images/Home2/kitchen_1200.jpg"/>
@@ -142,7 +142,7 @@
     <div class="large-12 columns">
       <div class="row">
         <div class="large-6 columns">
-          <p>&copy; Copyright Blue Sky, LLC.</p>
+          <p>&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
         <div class="large-6 columns">
           <a href="#Top" style="margin-left:100px">Return To Top</a>
