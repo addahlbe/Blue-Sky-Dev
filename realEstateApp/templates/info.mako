@@ -43,11 +43,8 @@
          <li><a href="/" class="button">Blue Sky Home</a></li>
         </ul>
       </div>
-      <div class="panel">
         <h1>Blue Sky</h1>
         <h1><small>THOUGHTFUL DESIGN FOR DAILY LIVING.</small></h1>
-      </div>
-
     </div>
   </div>
 
