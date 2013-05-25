@@ -26,9 +26,7 @@
          <li><a href="/" class="button">Blue Sky Home</a></li>
         </ul>
       </div>
-      <div class="panel">
         <a href="/home2"><h1>423 Teton Circle</h1></a>
-      </div>
     </div>
   </div>
 
@@ -37,13 +35,12 @@
 
   <!-- Main Page Content and Sidebar -->
 
-  <div class="row">
+  <div class="row" id="mainBody">
 
     <!-- Main Display Content -->
     <div class="large-9 columns" role="content">
 
       <article>
-      <hr />
         <a id="Stairwell"></a>
         <h1><small>Stairs / Landing</small></h1>
         <div class="row">
@@ -63,9 +60,6 @@
           </div>
         </div>
       </article>
-
-      <hr />
-
     </div>
 
     <!-- End Main Content -->
@@ -97,8 +91,9 @@
   </div>
 
 
-  <!-- End Main Content and Sidebar -->
-
+ <!-- End Main Content and Sidebar -->
+<br />
+<br />
 
   <!-- Footer -->
 
@@ -109,7 +104,7 @@
           <p style="color: #071e36">&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
         <div class="large-6 columns">
-          <a href="#Top" style="margin-left:100px">Return To Top</a>
+          <a href="#Top" style="margin-left:360px">Return To Top</a>
         </div>
       </div>
     </div>

@@ -35,13 +35,12 @@
 
   <!-- Main Page Content and Sidebar -->
 
-  <div class="row">
+  <div class="row" id="mainBody">
 
     <!-- Main Display Content -->
     <div class="large-9 columns" role="content">
 
       <article>
-      <hr />
         <a id="Master_View_1"></a>
         <h1><small>Bathrooms</small></h1>
         <div class="row">
@@ -72,8 +71,6 @@
           </div>
         </div>
       </article>
-
-      <hr />
 
     </div>
 
@@ -106,7 +103,8 @@
     <!-- End Sidebar -->
   </div>
 
-
+<br />
+<br />
   <!-- End Main Content and Sidebar -->
 
 
@@ -119,7 +117,7 @@
           <p style="color: #071e36">&copy; Copyright Blue Sky Development, Inc.</p>
         </div>
         <div class="large-6 columns">
-          <a href="#Top" style="margin-left:100px">Return To Top</a>
+          <a href="#Top" style="margin-left:360px">Return To Top</a>
         </div>
       </div>
     </div>
