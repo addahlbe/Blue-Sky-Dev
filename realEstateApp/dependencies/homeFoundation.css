@@ -10,7 +10,11 @@ body {
   font-size: 100%; }
 
 body {
-  background-image: url('../style/images/BSbg2.JPG') ;
+  background: url('../style/backgrounds/BSbg1.JPG') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   color: #222222;
   padding: 0;
   margin: 0;
@@ -28,8 +32,9 @@ a:focus {
   box-shadow: 0px 2px 0px 0px #888888;
   outline: #519dd3 thick;
   border-radius: 25px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding: 15px;
+  opacity: .93;
+  filter: alpha(opacity=60);
 }
 
 #slideshow {
@@ -1147,7 +1152,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
-  color: #071e36;
+  color: #c65900;
   text-rendering: optimizeLegibility;
   margin-top: 0.2em;
   margin-bottom: 0.5em;
