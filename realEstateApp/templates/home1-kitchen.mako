@@ -17,26 +17,19 @@
 </head>
 <body>
   <a id="Top"></a>
-  <!-- Nav Bar -->
-
-  <div class="row">
-    <div class="large-12 columns"  style="margin-top:20px">
-      <div class="nav-bar right">
-       <ul class="button-group">
-         <li><a href="/" class="button">Blue Sky Home</a></li>
-        </ul>
-      </div>
-        <a href="/home1"><h1>3134 Lower West Branch Road</h1></a>
-    </div>
-  </div>
-
-  <!-- End Nav -->
-
-
   <!-- Main Page Content and Sidebar -->
 
   <div class="row" id="mainBody">
-
+    <div class="large-12 columns" style="margin-top:20px">
+      <div class="large-3 columns">
+        <a href="/"><img border="0" src="/style/images/logo/BlueSkySmall.png" alt="Bedroom1 / Image Broken"></a>
+      </div>
+      <div class="large-9 columns">
+      <br />
+      <br />
+        <a href="/home1"><center><h1>3134 Lower West Branch Road</h1></center></a>
+      </div>
+    </div>
     <!-- Main Display Content -->
     <div class="large-9 columns" role="content">
 
@@ -88,7 +81,7 @@
     </aside>
 
     <!-- End Sidebar -->
-  </div>
+  
 
 
   <!-- End Main Content and Sidebar -->
@@ -109,7 +102,7 @@
       </div>
     </div>
   </footer>
-
+</div>
   <script>
   document.write('<script src=js/vendor/' +
   ('__proto__' in {} ? 'zepto' : 'jquery') +

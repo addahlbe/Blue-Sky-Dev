@@ -56,7 +56,38 @@ a:focus {
   outline: #519dd3 thick;
   border-radius: 25px;
   padding: 15px;
+}
 
+#testimonials {
+width:330px;
+background:#E7E9E6 url(images/bg-testimonials.png) left top repeat-x;
+border:1px solid #D8D9D6;
+margin:10px 0;
+ 
+}
+#testimonials blockquote{
+padding:10px;
+width:300px !important;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-style:italic;
+color: #519dd3;
+display:block;
+}
+ 
+#testimonials blockquote p{
+margin: 0 !important;padding: 5px!important;
+ 
+}
+#testimonials blockquote cite {
+font-style: normal;
+display: block;
+ 
+text-transform: uppercase;
+font-weight: bold;
+font-style:italic;
+color: #519dd3;
+padding-left:5px;
+margin-top:10px;
 }
 
 

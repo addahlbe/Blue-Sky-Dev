@@ -31,25 +31,26 @@
   <!-- End Top Bar -->
   <div class="row">
     <div class="large-12 columns">
-      <div class="row">
-        <div class="large-12 columns" style="margin-top:20px">
-          <div class="nav-bar right">
-           <ul class="button-group">
-             <li><a href="/" class="button">Blue Sky Home</a></li>
-            </ul>
-          </div>
-            <h1>Blue Sky</h1>
-            <h1><small>THOUGHTFUL DESIGN FOR DAILY LIVING.</small></h1>
-
-        </div>
-      </div>
-
       <!-- Main Page Content and Sidebar -->
       <div id="mainBody">
+        <div class="row">
+          <div class="large-12 columns" style="margin-top:20px">
+            <div class="large-3 columns">
+              <a href="/"><img border="0" src="/style/images/logo/BlueSkySmall.png" alt="Bedroom1 / Image Broken"></a>
+            </div>
+            <div class="large-9 columns">
+            <br />
+            <br />
+              <h1>Contact Blue Sky's Friendly Staff!</h1>
+            </div>
+          </div>
+        </div>
         <div class="row">
             <div class="large-12 columns">
               <!-- Contact Details -->
               <div class="large-9 columns">
+                <br />
+                <br />
                   <h3>Get in Touch!</h3>
                   <p>We'd love to hear from you. You can either reach out to us as a whole and one of our awesome team members will get back to you, or if you have a specific question reach out to one of our staff. We love getting email all day <em>all day</em>.</p>
                   <section class="section">
@@ -64,6 +65,8 @@
               <!-- End Contact Details -->
               <!-- Sidebar -->
               <div class="large-3 columns">
+                <br />
+                <br />
                 <h5>Map</h5>
                 <!-- Clicking this placeholder fires the mapModal Reveal modal -->
                 <p>

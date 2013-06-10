@@ -199,7 +199,7 @@
     </div>
 
         <div class="row">
-          <div class="large-12 columns" style="margin-top:20px">
+          <div class="large-8 columns" style="margin-top:20px">
             <!--<h1><img style="height:200px width:400px" src="/style/images/logo/BlueSkySmall.jpg" /></h1>-->
             <br />
             <br />
@@ -207,8 +207,13 @@
               <p> Blue sky is a development company. Blue sky is super awesome. Blue sky, blue sky.
                   If you were to come to blue sky you would instantly be happy. Our customer satisfaction
                   rate is the best in the nation. We offer the best products at competitive pricing. </p>
-                <h4><a href="/info">More Info</a><h4>
+              <h4><a href="/info">More Info</a><h4>
               <br />
+          </div>
+          <div class="large-4 columns">
+            <br />
+            <br />
+            <img border="0" src="/style/images/people.png" alt="">
           </div>
         </div>
 
@@ -236,12 +241,24 @@
 
       <!-- Call to Action Panel -->
       <div class="row">
+        <br />
+        <br />
           <div class="large-12 columns">
-              <center><h2>Get in touch!</h2></center>
               <div class="row">
-                <div class="large-12 columns">
+                <div class="large-2 columns">
+                  <br />
+                  <br />
+                  <br />
+                  <a href="/contact-info"><img border="0" src="/style/images/telephone.png" alt=""></a>
+                </div>
+                <div class="large-10 columns">
+                  <center><h2>Get in touch!</h2></center>
                   <p>We'd love to hear from you. And here is why you should get in touch with us. All location information can be found here!</p>
-                  <h4><a href="/contact-info">Contact Us!</a><h4>
+                  <div class="large-7 columns">
+                  </div>
+                  <div class="large-3 columns">
+                    <h4><a href="/contact-info">Contact Us!</a><h4>
+                  </div>
                 </div>
               </div>
               <br />

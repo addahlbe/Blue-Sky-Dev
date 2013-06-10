@@ -155,25 +155,19 @@
 </head>
 <body>
   <a id="Top"></a>
-  <!-- Nav Bar -->
-
-  <div class="row">
-    <div class="large-12 columns" style="margin-top:20px">
-      <div class="nav-bar right">
-       <ul class="button-group">
-         <li><a href="/" class="button">Blue Sky Home</a></li>
-        </ul>
-      </div>
-        <h1>423 Teton Circle</h1>
-      </div>
-  </div>
-
-  <!-- End Nav -->
-
-
   <!-- Main Page Content and Sidebar -->
 
   <div class="row" id="mainBody">
+    <div class="large-12 columns" style="margin-top:20px">
+      <div class="large-3 columns">
+        <a href="/"><img border="0" src="/style/images/logo/BlueSkySmall.png" alt="Bedroom1 / Image Broken"></a>
+      </div>
+      <div class="large-9 columns">
+      <br />
+      <br />
+        <center><h1>Home Style 2, 423 Teton Circle</h1></center>
+      </div>
+    </div>
 
     <!-- Main Display Content -->
     <div class="large-9 columns" role="content">
