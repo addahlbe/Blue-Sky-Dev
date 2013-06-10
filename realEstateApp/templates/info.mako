@@ -56,23 +56,36 @@
       <div class="panel">
         <h3 class="title">Company Bio</h3>
         <p>Write all kinds of information about the company here. How it got started, everything. Customers like a homey presence and to feel connected with owners. Members will get back to you, or if you have a specific question reach out to one of our staff. We love getting email all day <em>all day</em>.</p>
-        <div>
-          <!--<img border="0" src="/style/images/logo/BlueSkyMed.jpg" alt="Bedroom1 / Image Broken">-->
-        </div>
       </div>
-      <p style="color: #071e36">&copy; Copyright Blue Sky Development, Inc.</p>
     </div>
-
-    <!-- End Contact Details -->
-  <!-- Footer -->
-
-  <footer class="row">
-  </footer>
-
-  <!-- End Footer -->
-
-
-
+  </div>
+  <div class="row">
+    <div class="large-12 columns">
+      <h3 class="title">Testimonials</h3>
+        <div class="large-4 columns">
+          <div class="panel">
+          <h6> Customer 1 </h6>
+          <p> "Blue Sky is so awesome, They do it all!" </p>
+          <br />
+          </div>
+        </div>
+        <div class="large-4 columns">
+          <div class="panel">
+          <h6> Customer 2 </h6>
+          <p> "Blue Sky helped me with everything I needed" </p>
+          <br />
+          </div>
+        </div>
+        <div class="large-4 columns">
+          <div class="panel">
+          <h6> Customer 3 </h6>
+          <p> "Blue Sky goes out of their way to achieve customer satisfaction!"</p>
+          <br />
+          </div>
+        </div>
+    </div>
+      <p style="color: #071e36">&copy; Copyright Blue Sky Development, Inc.</p>
+  </div>
   <!-- Map Modal -->
 
   <script>

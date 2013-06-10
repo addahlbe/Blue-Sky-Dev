@@ -45,20 +45,16 @@
 <body>
   <div class="row" style="margin-top:15px">
     <div id="mainBody">
-      <div class="large-12 columns">
-        <center><h1>Blue Sky</h1>
-        <h4>THOUGHTFUL DESIGN FOR DAILY LIVING</h4></center>
-      </div>
-
     <!-- End Header and Nav -->
 
     <!-- First Band (Slider) -->
 
     <div class="row">
-      <div class="large-1 columns">
+      <div class="large-4 columns">
+        <img border="0" src="/style/images/logo/BlueSkyMed.png" style="height:310px" alt="Bedroom1 / Image Broken">
         <p> </p>
       </div>
-      <div class="large-10 columns">
+      <div class="large-8 columns">
          <div id="slideshow">
             <div>
               <img border="0" src="/style/images/Home1/bedroom1_1200.jpg" alt="Bedroom1 / Image Broken">
@@ -197,20 +193,22 @@
             </div>
           </div>
       </div>
-      <div class="large-1 columns">
+<!--       <div class="large-1 columns">
         <p></p>
-      </div>
+      </div> -->
     </div>
 
         <div class="row">
           <div class="large-12 columns" style="margin-top:20px">
             <!--<h1><img style="height:200px width:400px" src="/style/images/logo/BlueSkySmall.jpg" /></h1>-->
+            <br />
+            <br />
               <center><h2>About Blue Sky</h2></center>
               <p> Blue sky is a development company. Blue sky is super awesome. Blue sky, blue sky.
                   If you were to come to blue sky you would instantly be happy. Our customer satisfaction
                   rate is the best in the nation. We offer the best products at competitive pricing. </p>
-                  <h4><a href="/info">More Info</a><h4>
-                    <br />
+                <h4><a href="/info">More Info</a><h4>
+              <br />
           </div>
         </div>
 

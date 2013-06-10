@@ -39,6 +39,15 @@ embed {
 
 img {
   -ms-interpolation-mode: bicubic; }
+  
+#mainBody {
+  background-color: white;
+  box-shadow: 0px 2px 0px 0px #888888;
+  outline: #519dd3 thick;
+  border-radius: 25px;
+  padding: 15px;
+
+}
 
 #map_canvas img,
 #map_canvas embed,
