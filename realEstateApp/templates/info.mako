@@ -37,7 +37,7 @@
         <div class="large-9 columns">
         <br />
         <br />
-          <h1>About Blue Sky, and our wonderful projects:</h1>
+          <h1>About Blue Sky</h1>
         </div>
       </div>
     <div class="row">

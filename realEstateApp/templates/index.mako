@@ -221,14 +221,15 @@
           <div class="large-6 columns">
               <a href="/home1"><img src="/style/images/Home1/MainExterior.jpg" style="padding:1px; border:1px solid #df6400; background-color:white;"/></a>
               <center><a href="/home1"><h4>Building Style 1</h4></a></center>
-              <p style>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+              <p style></p>
           </div>
 
           <div class="large-6 columns">
               <a href="/home2"><img src="/style/images/Home2/MainExterior.jpg" style="padding:1px; border:1px solid #df6400; background-color:white;"/></a>
               <center><a href="/home2"><h4>Building Style 2</h4></a></center>
-              <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+              <p></p>
           </div>
+          <!--Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.--!>
 
       <!--     <div class="large-4 columns">
             <img src="/style/images/Home2/MainExterior.jpg" />
