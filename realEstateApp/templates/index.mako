@@ -204,9 +204,7 @@
             <br />
             <br />
               <center><h2>About Blue Sky</h2></center>
-              <p> Blue sky is a development company. Blue sky is super awesome. Blue sky, blue sky.
-                  If you were to come to blue sky you would instantly be happy. Our customer satisfaction
-                  rate is the best in the nation. We offer the best products at competitive pricing. </p>
+              <p> Blue Sky Developers is a premier home builder in Iowa City and surrounding communities. With a passion for quality, custom-made amenities and an attention to safety and forward thinking, Blue Sky Developers is an excellent choice for a distinctive and unique home. When considering the investment in a homebuilder in our area, consider the advantages of a full service construction and design firm.</p>
               <h4><a href="/info">More Info</a><h4>
               <br />
           </div>

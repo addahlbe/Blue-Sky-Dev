@@ -52,9 +52,8 @@
                 <br />
                 <br />
                   <h3>Get in Touch!</h3>
-                  <p>We'd love to hear from you. You can either reach out to us as a whole and one of our awesome team members will get back to you, or if you have a specific question reach out to one of our staff. We love getting email all day <em>all day</em>.</p>
+                  <p>We'd love to hear from you. You can either reach out to us as a whole and one of our awesome team members will get back to you, or if you have a specific question reach out to one of our staff.</p>
                   <section class="section">
-                    <h5 class="title">Specific Person</h5>
                     <div class="content" data-slug="panel2">
                       <ul class="large-block-grid-5">
                         <li><a href="mailto:blueskydev@rocketmail.com"><img src="/style/images/Blaine_Face.jpg">Blaine Thomas</a></li>
@@ -73,8 +72,8 @@
                   <iframe width="225" height="225" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Iowa+City,+IA&amp;aq=0&amp;oq=iowa+ci&amp;sll=41.718799,-91.650867&amp;sspn=0.06855,0.154324&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Iowa+City,+Johnson,+Iowa&amp;z=12&amp;iwloc=near&amp;output=embed"></iframe><br />
                 </p>
                 <p>
-                  123 Awesome St.<br />
-                  Barsoom, MA 95155 <br />
+                  3581 Quarter Dale Ct. SE<br />
+                  Iowa City, IA 52240<br />
                   <small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Iowa+City,+IA&amp;aq=0&amp;oq=iowa+ci&amp;sll=41.718799,-91.650867&amp;sspn=0.06855,0.154324&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Iowa+City,+Johnson,+Iowa&amp;z=12&amp;iwloc=A" style="text-align:left" target="_blank">View Larger Map</a></small>
                 </p>
               </div>
@@ -97,7 +96,7 @@
               </div>
               <div class="large-4 columns">
                 <br />
-                <p> Location: 1234 Awesome Ave. Iowa City Iowa
+                <p> Location: 3581 Quarter Dale Ct. SE, Iowa City, IA 52240
               </div>
               <br />
           </div>
